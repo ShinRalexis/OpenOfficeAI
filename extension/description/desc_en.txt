@@ -1,0 +1,3 @@
+AI writing tools for Writer: Improve, Proofread, Summarize, Translate, Bullet list, Explain and Synonyms.
+
+Works with local Ollama models (free and private) and, with an API key, with OpenAI and Anthropic Claude. Configure it from the AI Settings button or the AI menu.

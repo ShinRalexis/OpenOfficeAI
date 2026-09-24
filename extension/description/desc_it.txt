@@ -1,0 +1,3 @@
+Strumenti di scrittura con intelligenza artificiale per Writer: Migliora, Editing, Riassumi, Traduci, Elenco puntato, Spiega e Sinonimi.
+
+Funziona con i modelli locali di Ollama (gratuiti e privati) e, se inserisci una API key, con OpenAI e Anthropic Claude. Si configura dal tasto AI Impostazioni o dal menu AI.

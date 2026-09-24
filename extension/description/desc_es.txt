@@ -1,0 +1,3 @@
+Herramientas de escritura con inteligencia artificial para Writer: Mejorar, Corregir, Resumir, Traducir, Lista con viñetas, Explicar y Sinónimos.
+
+Funciona con los modelos locales de Ollama (gratuitos y privados) y, con una clave API, con OpenAI y Anthropic Claude. Se configura desde el botón IA Configuración o el menú IA.

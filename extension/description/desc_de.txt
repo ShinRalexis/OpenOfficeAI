@@ -1,0 +1,3 @@
+KI-Schreibwerkzeuge für Writer: Verbessern, Korrigieren, Zusammenfassen, Übersetzen, Aufzählung, Erklären und Synonyme.
+
+Funktioniert mit lokalen Ollama-Modellen (kostenlos und privat) und, mit einem API-Schlüssel, mit OpenAI und Anthropic Claude. Einstellungen über die Schaltfläche KI Einstellungen oder das Menü KI.
